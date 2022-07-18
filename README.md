@@ -17,7 +17,7 @@ Android News App ist ein mobiles Nachrichtensystem, das unter einer Android-Plat
 Nachrichtenanwendung verwendet wurde.Entwickelt mit nativer Java-Sprache, läuft die App schnell und reibungslos.
 Implementieren Sie das Stack-Layout-Design App schön in Design und Benutzererfahrung.
 
-NwsAPI wird verwendet, um die Nachrichten zu erhalten. Der Benutzer muss nur nach oben wischen, um weitere Nachrichten
+NesAPI wird verwendet, um die Nachrichten zu erhalten. Der Benutzer muss nur nach oben wischen, um weitere Nachrichten
 anzuzeigen, wenn der Benutzer einige Nachrichten interessant findet. er/sie kann einfach auf die Überschrift klicken
 und der Benutzer wird zu den offiziellen Nachrichten weitergeleitet, die in einer Webansicht darin geöffnet werden
 die App.
